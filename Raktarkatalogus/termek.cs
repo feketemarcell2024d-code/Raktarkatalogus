@@ -4,10 +4,10 @@ using System.Text;
 
 namespace Raktarkatalogus
 {
-    public class termek
+    public class Termek
     {
-        public string nev;
-        public int ar;
-        public int mennyiseg;
+        public string Nev;
+        public int Ar;
+        public int Mennyiseg;
     }
 }
